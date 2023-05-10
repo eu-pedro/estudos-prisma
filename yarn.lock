@@ -781,6 +781,11 @@ source-map@^0.6.0:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
+sqlite@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/sqlite/-/sqlite-4.2.0.tgz#788b0e92c484751e36ac61ec10aad8a34ed3aaae"
+  integrity sha512-T7Gx2RMMkF9AGB7ge8nTQK2FQxJfpAkPKy6oXvgvHlZCPsKoBH/6dBLfyyw+aaAxMxseQAYGJOLQP+0+ridk4A==
+
 statuses@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"
