@@ -23,9 +23,9 @@ model Movie {
   title        String      @unique
   duration     Int
   release_date DateTime
-  user_rent    MovieRent[] @relation("movie")
+  movie_rent    MovieRent[] @relation("movie")
 
-  @@map("movies")
+  @@map("movies") 
 }
 
 model MovieRent {

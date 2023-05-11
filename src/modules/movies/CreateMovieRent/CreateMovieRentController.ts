@@ -10,6 +10,6 @@ export class CreateMovieRentController {
 
     await createMovieRentUseCase.create({userId, movieId})
 
-    res.status(201).send
+    res.status(201).send()
   }
 }

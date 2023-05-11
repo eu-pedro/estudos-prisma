@@ -1,4 +1,4 @@
-import { CreateMovieRentController } from "../modules/movies/CreateMovieRente/CreateMovieRentController";
+import { CreateMovieRentController } from "../modules/movies/CreateMovieRent/CreateMovieRentController";
 import { CreateMovieController } from "../modules/movies/useCases/createMovie/CreateMovieController";
 import { Router } from "express";
 import { GetMoviesByReleaseDateController } from "../modules/movies/useCases/getMovieByReleaseDate/GetMoviesByReleaseDateController";
